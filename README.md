@@ -6,6 +6,8 @@
 
 [![CI](https://github.com/emacs-eine/run-go/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-eine/run-go/actions/workflows/test.yml)
 
+<img src="./etc/1.png" alt="" width="50%"/>
+
 ## 💾 Installation
 
 You need to add this line to your Eask file (global recommended).
