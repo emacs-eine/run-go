@@ -1,10 +1,10 @@
-;;; run-go.el --- Play Go  -*- lexical-binding: t; -*-
+;;; x-go.el --- Play Go  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2026  Shen, Jen-Chieh
 
 ;; Author: Shen, Jen-Chieh <jcs090218@gmail.com>
 ;; Maintainer: Shen, Jen-Chieh <jcs090218@gmail.com>
-;; URL: https://github.com/emacs-eine/run-go
+;; URL: https://github.com/emacs-eine/x-go
 ;; Version: 1.0.0
 ;; Package-Requires: ((emacs "26.1")
 ;;                    (go "0.0.1"))
@@ -34,5 +34,5 @@
 
 ;; NOTE: For being a package file.
 
-(provide 'run-go)
-;;; run-go.el ends here
+(provide 'x-go)
+;;; x-go.el ends here

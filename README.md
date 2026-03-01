@@ -1,10 +1,10 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![EINE Elpa](https://raw.githubusercontent.com/emacs-eine/badges/main/elpa/v/run-go.svg)](https://emacs-eine.github.io/elpa/#/run-go)
+[![EINE Elpa](https://raw.githubusercontent.com/emacs-eine/badges/main/elpa/v/x-go.svg)](https://emacs-eine.github.io/elpa/#/x-go)
 
-# run-go
+# x-go
 > Play Go
 
-[![CI](https://github.com/emacs-eine/run-go/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-eine/run-go/actions/workflows/test.yml)
+[![CI](https://github.com/emacs-eine/x-go/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-eine/x-go/actions/workflows/test.yml)
 
 <img src="./etc/1.png" alt="" width="50%"/>
 
@@ -22,7 +22,7 @@ You need to add this line to your Eask file (global recommended).
 Then, install it:
 
 ```console
-eask install -g run-go
+eask install -g x-go
 ```
 
 ## 🔧 Usage
@@ -30,7 +30,7 @@ eask install -g run-go
 To run the simple http server:
 
 ```console
-eask -g exec run-go
+eask -g exec x-go
 ```
 
 ## 🛠️ Contribute

@@ -1,13 +1,13 @@
 ;; -*- mode: eask; lexical-binding: t -*-
 
-(package "run-go"
+(package "x-go"
          "1.0.0"
          "Play Go")
 
-(website-url "https://github.com/emacs-eine/run-go")
+(website-url "https://github.com/emacs-eine/x-go")
 (keywords "games")
 
-(package-file "run-go.el")
+(package-file "x-go.el")
 (files "bin")
 
 (script "test" "echo \"Error: no test specified\" && exit 1")

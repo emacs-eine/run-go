@@ -5,7 +5,7 @@
 :;test -n "$EASK_EMACS" && EMACS=$EASK_EMACS
 :;exec "$EMACS" -Q -l "$0" -- "$@"
 
-;;; run-go --- Play Go  -*- lexical-binding: t; -*-
+;;; x-go --- Play Go  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2026  Shen, Jen-Chieh
 
@@ -38,4 +38,4 @@
 
 (call-interactively #'go-play)
 
-;;; run-go ends here
+;;; x-go ends here
